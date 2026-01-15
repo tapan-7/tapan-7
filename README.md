@@ -1,21 +1,19 @@
-# 👋 About Me
+# About Me
 
 Hi, I’m **Tapan Kumar Swain**, a passionate and detail-oriented **Software Engineer** with strong experience in building scalable, user-friendly applications across mobile and web platforms.
-
-I enjoy working on complex problems, improving existing systems through refactoring and optimization, and building reliable features that work well even in challenging conditions like low or no internet connectivity.
 
 ---
 
 ## What I Do
 - Build and maintain **production-ready applications**
 - Design clean, scalable **frontend architectures**
-- Work closely with backend systems and APIs
+- Work closely with the backend team for APIs
 - Improve performance, reliability, and code quality
 - Implement **offline-first** and **sync-based** features
 
 ---
 
-## 🛠 Skills & Technologies
+## Skills & Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-pill&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-pill&logo=typescript&logoColor=fff)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-pill&logo=html5&logoColor=fff)
@@ -38,10 +36,11 @@ I enjoy working on complex problems, improving existing systems through refactor
 
 ---
 
-## Collaboration
-I enjoy collaborating with cross-functional teams, reviewing code, sharing knowledge, and contributing to building robust and impactful products.
+## Connect With Me
+
+- 💼 **LinkedIn**: https://www.linkedin.com/in/tapan-kumar-swain-b4b231318/
+- 🌐 **Website**: https://tapan07.vercel.app/
+- 📧 **Email**: tapankumarswain353@gmail.com
+- 💻 **GitHub**: https://github.com/tapan-7
 
 ---
-
-## Final Note
-I believe good software is built through **clarity, consistency, and care**—both in code and in user experience.
