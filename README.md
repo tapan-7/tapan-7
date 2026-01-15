@@ -6,7 +6,7 @@ I enjoy working on complex problems, improving existing systems through refactor
 
 ---
 
-## 🧑‍💻 What I Do
+## What I Do
 - Build and maintain **production-ready applications**
 - Design clean, scalable **frontend architectures**
 - Work closely with backend systems and APIs
@@ -16,48 +16,25 @@ I enjoy working on complex problems, improving existing systems through refactor
 ---
 
 ## 🛠 Skills & Technologies
-
-### Frontend
-- React.js
-- React Native
-- Next.js
-- TypeScript / JavaScript
-- Tailwind CSS
-- ShadCN UI
-
-### Backend & Data
-- REST APIs
-- Drizzle ORM
-- SQLite / PostgreSQL
-- Offline data storage & sync strategies
-
-### Mobile & App Features
-- Offline-first architecture
-- Background sync handling
-- Form validation & state management
-- Animations & gesture handling (Reanimated, Gesture Handler)
-
-### Tools & Practices
-- Git & GitHub
-- Code refactoring & optimization
-- Clean code & best practices
-- Debugging & performance tuning
-
----
-
-## 🚀 Work Philosophy
-- Write code that is **easy to read, test, and maintain**
-- Prefer **simple and scalable solutions** over over-engineering
-- Focus on **user experience** and real-world usage scenarios
-- Continuously learn and adapt to new technologies
-
----
-
-## 📈 Currently Improving
-- System design patterns
-- Performance optimization techniques
-- Advanced offline sync and conflict resolution
-- UI/UX polish and consistency
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-pill&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-pill&logo=typescript&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-pill&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-pill&logo=css3&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-pill&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-pill&logo=nextdotjs&logoColor=fff)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-pill&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-pill&logo=tailwindcss&logoColor=fff)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-pill)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-pill&logo=bootstrap&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-pill&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-pill&logo=mysql&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-pill&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-pill&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-pill&logo=gitlab&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-pill&logo=docker&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-pill&logo=linux&logoColor=000)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-pill&logo=graphql&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-pill&logo=amazonaws&logoColor=FF9900)
 
 ---
 
