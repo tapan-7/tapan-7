@@ -38,10 +38,10 @@ I enjoy working on complex problems, improving existing systems through refactor
 
 ---
 
-## 🤝 Collaboration
+## Collaboration
 I enjoy collaborating with cross-functional teams, reviewing code, sharing knowledge, and contributing to building robust and impactful products.
 
 ---
 
-## 📌 Final Note
+## Final Note
 I believe good software is built through **clarity, consistency, and care**—both in code and in user experience.
